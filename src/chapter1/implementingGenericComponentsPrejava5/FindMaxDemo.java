@@ -2,6 +2,11 @@ package chapter1.implementingGenericComponentsPrejava5;
 
 import java.awt.Shape;
 
+/*
+ * Figure 1.8 A generic findMax routine,
+ * with demo using shapes and strings (pre-Java 5)
+ * */
+
 public class FindMaxDemo {
 
 	/*
@@ -28,17 +33,17 @@ public class FindMaxDemo {
 	/*
 	 * Test findMax on Shape and String objects.
 	 * */
-	public static void main( String[] args ) {
-		Shape[] sh1 = {
-				new Circle( 2.0 ),
-				new Square( 3.0 ),
-				new Rectangle( 3.0, 4.0 )
-		};
-		
-		String[] st1 = { "Joe", "Bob", "Bill", "Zeke" };
-		
-		System.out.println( findMax( sh1 ) );
-		System.out.println( findMax( st1 ) );
-	}
+//	public static void main( String[] args ) {
+//		Shape[] sh1 = {
+//				new Circle( 2.0 ),
+//				new Square( 3.0 ),
+//				new Rectangle( 3.0, 4.0 )
+//		};
+//		
+//		String[] st1 = { "Joe", "Bob", "Bill", "Zeke" };
+//		
+//		System.out.println( findMax( sh1 ) );
+//		System.out.println( findMax( st1 ) );
+//	}
 	
 }

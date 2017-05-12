@@ -1,5 +1,9 @@
 package chapter1.printingOutNumbers;
 
+/*
+ * Figure 1.4 Recursive routine to print an integer
+ * */
+
 public class PrintingOutNumbers {
 
 	public static void main( String[] args ) {

@@ -1,6 +1,8 @@
 package chapter1.implementingGenericComponentsPrejava5;
 
-
+/*
+ * Figure 1.7 An illustration of the Integer wrapper class
+ * */
 
 public class WrapperDemo {
 
