@@ -1,7 +1,5 @@
 package chapter1.implementingGenericComponentsPrejava5;
 
-import java.awt.Shape;
-
 /*
  * Figure 1.8 A generic findMax routine,
  * with demo using shapes and strings (pre-Java 5)
